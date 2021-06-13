@@ -14,6 +14,7 @@
     "typescript": "^4.3.2"
   },
   "dependencies": {
+    "jsmidgen": "^0.1.5",
     "scribbletune": "^4.1.0"
   }
 }
