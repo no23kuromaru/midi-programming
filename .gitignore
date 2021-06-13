@@ -123,3 +123,4 @@ out
 .yarn/install-state.gz
 .pnp.*
 
+*.mid
